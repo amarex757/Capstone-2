@@ -1,7 +1,7 @@
 ## App: 'Hotel Books'
 
 a. The title of your site and a link to the URL where it is deployed 
-	- Hotel Books
+- Hotel Books
 
 b. Describe what your website does 
 	- Makes reservations easier for travelers and vacationers.
