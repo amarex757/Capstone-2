@@ -1,3 +1,5 @@
+![](hotel-logo.jpeg)
+
 ## App: 'Hotel Book'
 
 a. The title of your site and a link to the URL where it is deployed 
