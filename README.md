@@ -1,6 +1,4 @@
-<img src="hotel-logo.jpeg" width="200">
-
-![](hotel-logo.jpeg)
+<img src="hotel-logo.jpeg" width="250" height="250">
 
 ## App: 'Hotel Book'
 
