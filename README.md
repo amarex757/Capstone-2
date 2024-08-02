@@ -19,7 +19,7 @@ e. What goal will your project be designed to achieve?
 - The goal of this project is to combine and organize trip journeys for multiple people. It allows users to make specialized reservations in hotels for a specific number of rooms, desired price ranges, and multiple people. It is a scheduling app that makes traveling less stressful. It factors in issues that you may not consider (weather, location, season).
   
 f. What kind of users will visit your app?
-- The demographics of this app is largely families, adults, young adults who participate in vacationing and traveling to foreign countries and distant states. This accommodates both professional and leisure travelers. Meaning businessmen and women arranging a hotel for a work trip don’t have to worry about booking through multiple different sites.
+- The demographics of this app is largely families, adults, young adults who participate in vacationing and traveling to foreign countries and distant states. This accommodates both professional and leisure travelers. Meaning businessmen and women arranging a hotel for a work trip don’t have to worry about booking through multiple sites.
   
 g. Issues with your API?
 - Upper limit of API calls.
